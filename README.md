@@ -7,6 +7,6 @@ Creative Geek<br>
 Music Producer<br>
 Visual Artist<br>
 
-Skills: Full Stack Development, Adobe Creative Cloud, 
+
 
 Find me anywhere : @vanshbordia
