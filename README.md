@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Vansh
+### Hi there 👋, I'm Vansh
 #### C-Level For many organizations
 ![C-Level For many organizations](https://github.com/Vanshbordia/Vanshbordia/blob/main/image.png)
 
